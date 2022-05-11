@@ -2,8 +2,6 @@
 <p align="center" dir="auto">
     <a href="https://twitter.com/Eldanin2" rel="nofollow"><img src="https://camo.githubusercontent.com/7073fe91bd34e4962c1f6fdf2142b832672131cf0bfa086a77743be795df34f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333146413146313f7374796c653d666c6174266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
     <a href="https://www.linkedin.com/in/omar-mohamed-8a66a81a1" rel="nofollow"><img src="https://camo.githubusercontent.com/6c1dafd006af15bce395e2d124db54c52a24827e7a8763b59314eeb97d5c6857/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333031373742353f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:luiz7401@gmail.com)
-
 </p>
 <p dir="auto">I'm a Frontend Developer who is passionate about buliding resposive web applications with HTML,CSS,SASS,JavaScript,JQuery,Redux and framworks like React.js </p>
 <h3 align="left">Languages and Tools:</h3>
